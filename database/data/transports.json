@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Bus (Non-AC)",
+        "price_per_km": 2.5,
+        "icon": "bus"
+    },
+    {
+        "name": "Bus (AC)",
+        "price_per_km": 4.0,
+        "icon": "bus"
+    },
+    {
+        "name": "Train (Shovon)",
+        "price_per_km": 1.5,
+        "icon": "train"
+    },
+    {
+        "name": "Train (AC)",
+        "price_per_km": 3.5,
+        "icon": "train"
+    },
+    {
+        "name": "Microbus",
+        "price_per_km": 8.0,
+        "icon": "van"
+    },
+    {
+        "name": "Private Car",
+        "price_per_km": 12.0,
+        "icon": "car"
+    }
+]

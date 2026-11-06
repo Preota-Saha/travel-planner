@@ -1,0 +1,447 @@
+[
+    {
+        "place_slug": "coxs-bazar",
+        "type": "attraction",
+        "title": "Laboni Beach",
+        "description": "The main beach point of Cox's Bazar with horse rides and colourful umbrellas."
+    },
+    {
+        "place_slug": "coxs-bazar",
+        "type": "attraction",
+        "title": "Inani Beach",
+        "description": "A quieter beach south of town known for its coral stones and clear water."
+    },
+    {
+        "place_slug": "coxs-bazar",
+        "type": "attraction",
+        "title": "Himchari National Park",
+        "description": "Hill viewpoint with waterfalls and a short trek from the highway."
+    },
+    {
+        "place_slug": "coxs-bazar",
+        "type": "food",
+        "title": "Dry Fish (Shutki) Curry",
+        "description": "Smoky dry fish cooked with mustard and chillies, very popular locally."
+    },
+    {
+        "place_slug": "coxs-bazar",
+        "type": "food",
+        "title": "Beachside BBQ Seafood",
+        "description": "Fresh prawns and fish grilled at small stalls along the beach."
+    },
+    {
+        "place_slug": "coxs-bazar",
+        "type": "shopping",
+        "title": "Himchari Shell Market",
+        "description": "Souvenir shells, beads and handmade jewellery from local sellers."
+    },
+
+    {
+        "place_slug": "kuakata",
+        "type": "attraction",
+        "title": "Sunrise Point",
+        "description": "Best spot on the east beach to watch the sun come up over the Bay of Bengal."
+    },
+    {
+        "place_slug": "kuakata",
+        "type": "attraction",
+        "title": "Fatrar Char",
+        "description": "A small island you can reach by boat with quiet beaches and fishing villages."
+    },
+    {
+        "place_slug": "kuakata",
+        "type": "attraction",
+        "title": "Mishuk Pur Buddhist Temple",
+        "description": "A small hilltop Buddhist temple with views over the coastline."
+    },
+    {
+        "place_slug": "kuakata",
+        "type": "food",
+        "title": "Coconut Water and Pitha",
+        "description": "Fresh green coconut water and local rice cakes sold by the beach."
+    },
+    {
+        "place_slug": "kuakata",
+        "type": "shopping",
+        "title": "Local Handloom Saris",
+        "description": "Colourful traditional saris woven by village women of the area."
+    },
+
+    {
+        "place_slug": "saint-martin",
+        "type": "attraction",
+        "title": "Coral Reef Snorkelling",
+        "description": "Shallow coral reefs with colourful fish just off the island beach."
+    },
+    {
+        "place_slug": "saint-martin",
+        "type": "attraction",
+        "title": "Chera Dwip",
+        "description": "A tiny island nearby with calm clear water and a long sandy beach."
+    },
+    {
+        "place_slug": "saint-martin",
+        "type": "attraction",
+        "title": "West Beach Sunset Walk",
+        "description": "Long evening walks along the western shoreline with beautiful sunsets."
+    },
+    {
+        "place_slug": "saint-martin",
+        "type": "food",
+        "title": "Grilled Tiger Prawns",
+        "description": "Large juicy prawns grilled with simple spices by local cooks."
+    },
+    {
+        "place_slug": "saint-martin",
+        "type": "shopping",
+        "title": "Sea Shell Crafts",
+        "description": "Small handcrafted items made from seashells collected on the island."
+    },
+
+    {
+        "place_slug": "bandarban",
+        "type": "attraction",
+        "title": "Nilgiri Hill",
+        "description": "A high hilltop with clouds below it, reached by a short jeep ride and walk."
+    },
+    {
+        "place_slug": "bandarban",
+        "type": "attraction",
+        "title": "Sangu River Rafting",
+        "description": "Bamboo rafting down the calm Sangu river through green hills."
+    },
+    {
+        "place_slug": "bandarban",
+        "type": "attraction",
+        "title": "Nafakhum Falls",
+        "description": "A wide waterfall inside a hilly forest, popular with trekkers."
+    },
+    {
+        "place_slug": "bandarban",
+        "type": "food",
+        "title": "Tribal Bamboo Chicken",
+        "description": "Chicken cooked inside bamboo shoots by local tribal communities."
+    },
+    {
+        "place_slug": "bandarban",
+        "type": "shopping",
+        "title": "Hill Tracts Handicrafts",
+        "description": "Handwoven baskets and traditional tribal jewellery from local markets."
+    },
+
+    {
+        "place_slug": "sajek-valley",
+        "type": "attraction",
+        "title": "Konglak Hill Viewpoint",
+        "description": "Best sunrise viewpoint where a sea of clouds sits below the hills."
+    },
+    {
+        "place_slug": "sajek-valley",
+        "type": "attraction",
+        "title": "Hanging Bridge Walk",
+        "description": "A long bamboo hanging bridge over a deep green valley."
+    },
+    {
+        "place_slug": "sajek-valley",
+        "type": "attraction",
+        "title": "Lushai Heritage Village",
+        "description": "Small indigenous village with traditional houses and stories."
+    },
+    {
+        "place_slug": "sajek-valley",
+        "type": "food",
+        "title": "Local Honey and Rice Cakes",
+        "description": "Wild honey from the hills served with simple rice cakes."
+    },
+    {
+        "place_slug": "sajek-valley",
+        "type": "shopping",
+        "title": "Bamboo Handicrafts",
+        "description": "Handmade bamboo items like baskets, hats and small furniture."
+    },
+
+    {
+        "place_slug": "khagrachari",
+        "type": "attraction",
+        "title": "Alutila Cave",
+        "description": "A natural limestone cave with cool air and rocky formations inside."
+    },
+    {
+        "place_slug": "khagrachari",
+        "type": "attraction",
+        "title": "Richhang Waterfall",
+        "description": "A tall waterfall in the forest that flows strong after the rains."
+    },
+    {
+        "place_slug": "khagrachari",
+        "type": "attraction",
+        "title": "DC Hill Viewpoint",
+        "description": "Hill park near the town with wide views of the green valleys."
+    },
+    {
+        "place_slug": "khagrachari",
+        "type": "food",
+        "title": "Pita and Bamboo Fish",
+        "description": "Local flat bread served with fish cooked inside bamboo."
+    },
+    {
+        "place_slug": "khagrachari",
+        "type": "shopping",
+        "title": "Indigenous Textile",
+        "description": "Hand-woven colourful fabrics made by the local Tripura community."
+    },
+
+    {
+        "place_slug": "sundarbans",
+        "type": "attraction",
+        "title": "Boat Safari through the Mangroves",
+        "description": "Full day boat ride through narrow tidal rivers inside the forest."
+    },
+    {
+        "place_slug": "sundarbans",
+        "type": "attraction",
+        "title": "Kotka Beach",
+        "description": "Wide sandy beach inside the forest, often visited by Royal Bengal Tigers."
+    },
+    {
+        "place_slug": "sundarbans",
+        "type": "attraction",
+        "title": "Heron Point",
+        "description": "A wildlife viewpoint known for spotted deer, crocodiles and many birds."
+    },
+    {
+        "place_slug": "sundarbans",
+        "type": "food",
+        "title": "Village Style Crab Curry",
+        "description": "Spicy crab curry cooked in the simple style of nearby villages."
+    },
+    {
+        "place_slug": "sundarbans",
+        "type": "shopping",
+        "title": "Honey and Golpata Crafts",
+        "description": "Wild honey and hand fans made from the golpata palm leaves."
+    },
+
+    {
+        "place_slug": "lawachara",
+        "type": "attraction",
+        "title": "Forest Trail Walk",
+        "description": "A short marked trail through tall trees and hanging vines."
+    },
+    {
+        "place_slug": "lawachara",
+        "type": "attraction",
+        "title": "Hoolock Gibbon Spotting",
+        "description": "The only ape in Bangladesh lives here, often seen early morning."
+    },
+    {
+        "place_slug": "lawachara",
+        "type": "attraction",
+        "title": "Tea Garden View",
+        "description": "The forest is surrounded by tea gardens with calm walking paths."
+    },
+    {
+        "place_slug": "lawachara",
+        "type": "food",
+        "title": "Local Tea and Pitha",
+        "description": "A cup of strong local tea with simple rice cakes."
+    },
+    {
+        "place_slug": "lawachara",
+        "type": "shopping",
+        "title": "Tea from Local Estates",
+        "description": "Small packets of fresh tea bought directly from nearby gardens."
+    },
+
+    {
+        "place_slug": "sonargaon",
+        "type": "attraction",
+        "title": "Folk Art and Craft Museum",
+        "description": "Old Mughal building with boats, palanquins and folk artefacts."
+    },
+    {
+        "place_slug": "sonargaon",
+        "type": "attraction",
+        "title": "Panam Nagar",
+        "description": "Street of old zamindar houses, mostly brick ruins, frozen in time."
+    },
+    {
+        "place_slug": "sonargaon",
+        "type": "attraction",
+        "title": "Meghna River Boat Ride",
+        "description": "Small wooden boats go down the wide Meghna river with river breeze."
+    },
+    {
+        "place_slug": "sonargaon",
+        "type": "food",
+        "title": "Ilish Bhaji",
+        "description": "Local hilsa fish curry, a famous Bangladeshi dish."
+    },
+    {
+        "place_slug": "sonargaon",
+        "type": "food",
+        "title": "Bharta with Rice",
+        "description": "Smoky mashed eggplant served with plain rice."
+    },
+    {
+        "place_slug": "sonargaon",
+        "type": "shopping",
+        "title": "Nakshi Kantha Sarees",
+        "description": "Hand embroidered traditional quilts and saris from local villages."
+    },
+
+    {
+        "place_slug": "mahasthangarh",
+        "type": "attraction",
+        "title": "Citadel Ruins Walk",
+        "description": "Walk along the 2,500 year old brick walls of the ancient city."
+    },
+    {
+        "place_slug": "mahasthangarh",
+        "type": "attraction",
+        "title": "Mahasthangarh Museum",
+        "description": "Small museum with stone statues, pottery and inscriptions."
+    },
+    {
+        "place_slug": "mahasthangarh",
+        "type": "attraction",
+        "title": "Gokul Medh",
+        "description": "An ancient brick mound with views over the surrounding villages."
+    },
+    {
+        "place_slug": "mahasthangarh",
+        "type": "food",
+        "title": "Rajshahi Mangoes",
+        "description": "Famous sweet mangoes from the region, available in summer."
+    },
+    {
+        "place_slug": "mahasthangarh",
+        "type": "shopping",
+        "title": "Clay Pottery",
+        "description": "Hand made clay pots and small terracotta items."
+    },
+
+    {
+        "place_slug": "paharpur",
+        "type": "attraction",
+        "title": "Somapura Mahavihara",
+        "description": "The huge central Buddhist shrine, one of the great monasteries of South Asia."
+    },
+    {
+        "place_slug": "paharpur",
+        "type": "attraction",
+        "title": "Terracotta Plaques",
+        "description": "Hundreds of ancient clay plaques with scenes of everyday Buddhist life."
+    },
+    {
+        "place_slug": "paharpur",
+        "type": "attraction",
+        "title": "Museum at the Gate",
+        "description": "Small museum at the entrance with stone sculptures and coins."
+    },
+    {
+        "place_slug": "paharpur",
+        "type": "food",
+        "title": "Local Khichuri",
+        "description": "A simple rice and lentil meal cooked the village way."
+    },
+    {
+        "place_slug": "paharpur",
+        "type": "shopping",
+        "title": "Village Handicrafts",
+        "description": "Small bamboo items and simple terracotta figures."
+    },
+
+    {
+        "place_slug": "sreemangal",
+        "type": "attraction",
+        "title": "Tea Garden Walking",
+        "description": "Long walks through endless rows of bright green tea bushes."
+    },
+    {
+        "place_slug": "sreemangal",
+        "type": "attraction",
+        "title": "Madhabpur Lake",
+        "description": "A small lake inside the forest with lily pads and turtles."
+    },
+    {
+        "place_slug": "sreemangal",
+        "type": "attraction",
+        "title": "Lawachara Border Trek",
+        "description": "Short forest trek at the edge of Lawachara National Park."
+    },
+    {
+        "place_slug": "sreemangal",
+        "type": "food",
+        "title": "Seven Layer Tea",
+        "description": "Famous seven colour tea made by local tea stalls."
+    },
+    {
+        "place_slug": "sreemangal",
+        "type": "food",
+        "title": "Akhoni Pitha",
+        "description": "Traditional tea-time rice cake eaten with sugar."
+    },
+    {
+        "place_slug": "sreemangal",
+        "type": "shopping",
+        "title": "Local Tea Packets",
+        "description": "Fresh loose leaf tea bought straight from the factory outlet."
+    },
+
+    {
+        "place_slug": "ratargul",
+        "type": "attraction",
+        "title": "Boat Ride in the Swamp Forest",
+        "description": "Silent boat rides under half-submerged trees in monsoon season."
+    },
+    {
+        "place_slug": "ratargul",
+        "type": "attraction",
+        "title": "Walking in Knee-deep Water",
+        "description": "Wading through clean water under tall trees, very peaceful."
+    },
+    {
+        "place_slug": "ratargul",
+        "type": "food",
+        "title": "Local Village Lunch",
+        "description": "Simple rice, dal and fish served by nearby villagers."
+    },
+    {
+        "place_slug": "ratargul",
+        "type": "shopping",
+        "title": "Village Honey",
+        "description": "Raw forest honey collected by local honey hunters."
+    },
+
+    {
+        "place_slug": "jaflong",
+        "type": "attraction",
+        "title": "Stone Collection Boats",
+        "description": "Boats that bring down stones from the Khasi hills of India."
+    },
+    {
+        "place_slug": "jaflong",
+        "type": "attraction",
+        "title": "Dawki River Crystal Water",
+        "description": "A small clear river where you can see the bottom even deep down."
+    },
+    {
+        "place_slug": "jaflong",
+        "type": "attraction",
+        "title": "Madhabkunda Waterfall",
+        "description": "A tall waterfall a short drive away, surrounded by tea gardens."
+    },
+    {
+        "place_slug": "jaflong",
+        "type": "food",
+        "title": "Pithas and Orange Juice",
+        "description": "Local rice cakes with fresh oranges from nearby orchards."
+    },
+    {
+        "place_slug": "jaflong",
+        "type": "shopping",
+        "title": "Stone Chips and Ornaments",
+        "description": "Small decorative stones and jewellery made from local pebbles."
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "category_slug": "sea",
+        "name": "Cox's Bazar",
+        "slug": "coxs-bazar",
+        "description": "The world's longest natural sea beach stretches about 120 km along the Bay of Bengal. It is the most popular seaside getaway for tourists in Bangladesh.",
+        "cover_image": "https://placehold.co/600x400/0077b6/ffffff?text=Cox's+Bazar"
+    },
+    {
+        "category_slug": "sea",
+        "name": "Kuakata",
+        "slug": "kuakata",
+        "description": "Known as the daughter of the sea, Kuakata offers a rare view of both sunrise and sunset over the Bay of Bengal. It is a quiet, traditional beach town.",
+        "cover_image": "https://placehold.co/600x400/0077b6/ffffff?text=Kuakata"
+    },
+    {
+        "category_slug": "sea",
+        "name": "Saint Martin",
+        "slug": "saint-martin",
+        "description": "The only coral island in Bangladesh, located in the deep blue waters of the Bay of Bengal. It is famous for clear water, coral reefs and laid-back island life.",
+        "cover_image": "https://placehold.co/600x400/0077b6/ffffff?text=Saint+Martin"
+    },
+    {
+        "category_slug": "hills",
+        "name": "Bandarban",
+        "slug": "bandarban",
+        "description": "A scenic hill district with green valleys, rivers and the highest peaks in Bangladesh. It is a popular spot for trekking and nature lovers.",
+        "cover_image": "https://placehold.co/600x400/2a9d8f/ffffff?text=Bandarban"
+    },
+    {
+        "category_slug": "hills",
+        "name": "Sajek Valley",
+        "slug": "sajek-valley",
+        "description": "Often called the roof of Rangamati, Sajek Valley is famous for its clouds floating below the hills. It is a calm and beautiful hill retreat near the Mizoram border.",
+        "cover_image": "https://placehold.co/600x400/2a9d8f/ffffff?text=Sajek+Valley"
+    },
+    {
+        "category_slug": "hills",
+        "name": "Khagrachari",
+        "slug": "khagrachari",
+        "description": "A peaceful hill district known for its rolling green hills, indigenous culture and waterfalls. Alutila Cave is one of its most popular attractions.",
+        "cover_image": "https://placehold.co/600x400/2a9d8f/ffffff?text=Khagrachari"
+    },
+    {
+        "category_slug": "forest",
+        "name": "Sundarbans",
+        "slug": "sundarbans",
+        "description": "The largest mangrove forest in the world and home of the Royal Bengal Tiger. It spreads across Bangladesh and India along the Bay of Bengal coast.",
+        "cover_image": "https://placehold.co/600x400/1b4332/ffffff?text=Sundarbans"
+    },
+    {
+        "category_slug": "forest",
+        "name": "Lawachara National Park",
+        "slug": "lawachara",
+        "description": "A tropical rainforest in Sylhet, famous for its tall trees, hanging vines and rare wildlife. It is one of the easiest forest getaways from Dhaka.",
+        "cover_image": "https://placehold.co/600x400/1b4332/ffffff?text=Lawachara"
+    },
+    {
+        "category_slug": "historical",
+        "name": "Sonargaon",
+        "slug": "sonargaon",
+        "description": "Once the capital of Bengal, Sonargaon is a quiet old town near Dhaka full of Mughal ruins, a folk museum and riverside views.",
+        "cover_image": "https://placehold.co/600x400/8d6e63/ffffff?text=Sonargaon"
+    },
+    {
+        "category_slug": "historical",
+        "name": "Mahasthangarh",
+        "slug": "mahasthangarh",
+        "description": "The ancient archaeological site of Pundranagar, one of the earliest urban centres in Bangladesh. Its old brick walls and ruins date back over 2,500 years.",
+        "cover_image": "https://placehold.co/600x400/8d6e63/ffffff?text=Mahasthangarh"
+    },
+    {
+        "category_slug": "historical",
+        "name": "Paharpur (Somapura Mahavihara)",
+        "slug": "paharpur",
+        "description": "A UNESCO World Heritage site and one of the great Buddhist monasteries of the Indian subcontinent. The huge central shrine is an icon of ancient Bengal.",
+        "cover_image": "https://placehold.co/600x400/8d6e63/ffffff?text=Paharpur"
+    },
+    {
+        "category_slug": "village",
+        "name": "Sreemangal",
+        "slug": "sreemangal",
+        "description": "A small tea-growing town surrounded by lush green tea gardens. It is the tea capital of Bangladesh and known for its calm, slow village life.",
+        "cover_image": "https://placehold.co/600x400/6a994e/ffffff?text=Sreemangal"
+    },
+    {
+        "category_slug": "village",
+        "name": "Ratargul Swamp Forest",
+        "slug": "ratargul",
+        "description": "Often called the Sundarbans of Sylhet, this freshwater swamp forest fills with water in the monsoon season. Boating under the trees is a unique experience.",
+        "cover_image": "https://placehold.co/600x400/6a994e/ffffff?text=Ratargul"
+    },
+    {
+        "category_slug": "village",
+        "name": "Jaflong",
+        "slug": "jaflong",
+        "description": "A scenic border town in Sylhet known for its stone collections, waterfalls and the Dawki river flowing from India. It has a calm rural charm.",
+        "cover_image": "https://placehold.co/600x400/6a994e/ffffff?text=Jaflong"
+    }
+]

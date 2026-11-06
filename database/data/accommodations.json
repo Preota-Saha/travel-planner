@@ -1,0 +1,27 @@
+[
+    {
+        "name": "No Accommodation",
+        "star_rating": null,
+        "price_per_night": 0
+    },
+    {
+        "name": "2 Star Hotel",
+        "star_rating": 2,
+        "price_per_night": 1500
+    },
+    {
+        "name": "3 Star Hotel",
+        "star_rating": 3,
+        "price_per_night": 3000
+    },
+    {
+        "name": "4 Star Hotel",
+        "star_rating": 4,
+        "price_per_night": 6000
+    },
+    {
+        "name": "5 Star Resort",
+        "star_rating": 5,
+        "price_per_night": 12000
+    }
+]

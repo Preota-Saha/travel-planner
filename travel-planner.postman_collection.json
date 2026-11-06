@@ -1,0 +1,142 @@
+{
+    "info": {
+        "name": "Travel Planner API",
+        "description": "REST API for the Travel Planner backend (Laravel + MySQL). All endpoints are read-only except POST /trip-plan/calculate (returns a cost estimate) and POST /trip-plans (saves the estimate).",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
+    "variable": [
+        {
+            "key": "base_url",
+            "value": "http://127.0.0.1:8000/api",
+            "type": "string"
+        }
+    ],
+    "item": [
+        {
+            "name": "List Categories",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{base_url}}/categories",
+                    "host": ["{{base_url}}"],
+                    "path": ["categories"]
+                }
+            }
+        },
+        {
+            "name": "List Places Under a Category",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{base_url}}/categories/sea/places",
+                    "host": ["{{base_url}}"],
+                    "path": ["categories", "sea", "places"]
+                }
+            }
+        },
+        {
+            "name": "Place Details",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{base_url}}/places/coxs-bazar",
+                    "host": ["{{base_url}}"],
+                    "path": ["places", "coxs-bazar"]
+                }
+            }
+        },
+        {
+            "name": "List Locations",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{base_url}}/locations",
+                    "host": ["{{base_url}}"],
+                    "path": ["locations"]
+                }
+            }
+        },
+        {
+            "name": "List Transports",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{base_url}}/transports",
+                    "host": ["{{base_url}}"],
+                    "path": ["transports"]
+                }
+            }
+        },
+        {
+            "name": "List Accommodations",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{base_url}}/accommodations",
+                    "host": ["{{base_url}}"],
+                    "path": ["accommodations"]
+                }
+            }
+        },
+        {
+            "name": "Calculate Trip Cost (no save)",
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/json"
+                    }
+                ],
+                "body": {
+                    "mode": "raw",
+                    "raw": "{\n    \"location_id\": 1,\n    \"place_id\": 4,\n    \"transport_id\": 2,\n    \"accommodation_id\": 3,\n    \"people\": 2,\n    \"days\": 3\n}"
+                },
+                "url": {
+                    "raw": "{{base_url}}/trip-plan/calculate",
+                    "host": ["{{base_url}}"],
+                    "path": ["trip-plan", "calculate"]
+                }
+            }
+        },
+        {
+            "name": "Save Trip Plan",
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/json"
+                    }
+                ],
+                "body": {
+                    "mode": "raw",
+                    "raw": "{\n    \"location_id\": 1,\n    \"place_id\": 4,\n    \"transport_id\": 2,\n    \"accommodation_id\": 3,\n    \"people\": 2,\n    \"days\": 3\n}"
+                },
+                "url": {
+                    "raw": "{{base_url}}/trip-plans",
+                    "host": ["{{base_url}}"],
+                    "path": ["trip-plans"]
+                }
+            }
+        },
+        {
+            "name": "Get Saved Trip Plan by ID",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": {
+                    "raw": "{{base_url}}/trip-plans/1",
+                    "host": ["{{base_url}}"],
+                    "path": ["trip-plans", "1"]
+                }
+            }
+        }
+    ]
+}

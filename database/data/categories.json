@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Sea",
+        "slug": "sea",
+        "image": "https://placehold.co/600x400/0077b6/ffffff?text=Sea"
+    },
+    {
+        "name": "Hills",
+        "slug": "hills",
+        "image": "https://placehold.co/600x400/2a9d8f/ffffff?text=Hills"
+    },
+    {
+        "name": "Forest",
+        "slug": "forest",
+        "image": "https://placehold.co/600x400/1b4332/ffffff?text=Forest"
+    },
+    {
+        "name": "Historical",
+        "slug": "historical",
+        "image": "https://placehold.co/600x400/8d6e63/ffffff?text=Historical"
+    },
+    {
+        "name": "Village",
+        "slug": "village",
+        "image": "https://placehold.co/600x400/6a994e/ffffff?text=Village"
+    }
+]
